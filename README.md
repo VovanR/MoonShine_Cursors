@@ -1,10 +1,9 @@
-MoonShine_Cursors
-=================
+# MoonShine_Cursors
 
-GUI Cursors
------------
+GUI Cursors.
 
-Windows version: [on deviantArt](http://fav.me/d6p2nql)
+- Windows version: [on deviantArt](http://fav.me/d6p2nql)
+- Linux version: soon
 
 ### Pointer
 size=32 xhot=3 yhot=7
@@ -161,3 +160,9 @@ size=32 xhot=6 yhot=8
 
 |  | ![](png/bonus/shortcut-ole32.png) | ![](png/bonus/shortcut-p-ole32.png) |
 | --- | --- | --- |
+
+## Authors
+- Vladimir Rodkin ([VovanR](https://github.com/VovanR)). [Follow](https://twitter.com/VovanR) on twitter.
+
+## License
+MoonShine_Cursors is licensed under the [MIT license](https://github.com/VovanR/MoonShine_Cursors/blob/master/LICENSE).
